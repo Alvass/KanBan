@@ -1,7 +1,7 @@
 **KanBan & Fulfilment analysis**
 
 ## Situation
-One of the key customer wished to setup a KanBan via EDI to allow their system raising orders based on their live production demand. Their production can be hectic and sending a forecast didn’t prevent some production stop Their IT system for EDI was not aligned with ours which preventing  straight setup.
+One of the key customers wished to setup a KanBan via EDI to allow their system raising orders based on their live production demand. Their production can be hectic and sending a forecast didn’t prevent some production stop Their IT system for EDI was not aligned with ours which preventing  straight setup.
 
 ## Task
 To avoid potential production stop and working alongside the EDI setup, I have implemented an offline KanBan system.
