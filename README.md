@@ -1,5 +1,3 @@
-**KanBan & Fulfilment analysis created in 2010**
-
 ## Situation
 One of the key customers wished to setup a KanBan via EDI to allow their system raising orders based on their live production demand. Their production can be hectic and sending a forecast didn’t prevent some production stop Their IT system for EDI was not aligned with ours which preventing  straight setup.
 
